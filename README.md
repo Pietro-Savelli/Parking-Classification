@@ -1,4 +1,4 @@
-Parking Classification 
+## Parking Classification 
 
 Progetto di computer vision che utilizza una SVM per capire se i posti auto in un video sono liberi o occupati.
 
@@ -7,7 +7,7 @@ Il sistema analizza un video di un parcheggio e colora:
 - **Rosso** → posto occupato  
 
 
-Contenuto del repository:
+## Contenuto del repository:
 
 Questo repository contiene solo il codice.  
 Il dataset di immagini e il video non sono inclusi per motivi di dimensione.
@@ -15,7 +15,7 @@ Il dataset di immagini e il video non sono inclusi per motivi di dimensione.
 
 
 
-File principali
+## File principali:
 
 - `train_model.py`  
   Addestra il modello SVM usando le immagini dei posti auto.
