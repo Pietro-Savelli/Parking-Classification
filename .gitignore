@@ -1,0 +1,11 @@
+# FILE DI SISTEMA DA IGNORARE 
+__pycache__/
+*.pyc
+
+# DATI DA IGNORARE
+Dati/
+data/         
+clf-data/
+
+# Ignora tutti i video
+*.mp4
